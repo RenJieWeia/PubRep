@@ -1,0 +1,6 @@
+# 内容：Google
+USER-AGENT,*google*
+USER-AGENT,google*
+DOMAIN-KEYWORD,google
+DOMAIN,google,com
+DOMAIN-SUFFIX,google.com
